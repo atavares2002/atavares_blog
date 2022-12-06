@@ -10,5 +10,5 @@ I´ve added a few improvements and modifications my self and I will keep the pro
 ### Where can I find it?
 
 It is available at:
-Open [https://blog.atavares.com](https://blogatavares.com) to view it in your browser.
+ [blog.atavares.com](https://blog.atavares.com) to view it in your browser.
 [Deployed with Vercel](https://vercel.com/)
