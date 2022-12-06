@@ -1,27 +1,14 @@
-# Next.js + Tailwind CSS Example
+# André Tavares Next.js + Tailwind CSS Portfolio (ATAVARES)
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+Project developed while following the step-by-step tutorial provided by @adrianhajdin from [https://www.jsmastery.pro](https://www.jsmastery.pro) available on YouTube [https://youtu.be/HYv55DhgTuA] (https://youtu.be/HYv55DhgTuA).
+Thanks for sharing.
 
-## Deploy your own
+## Few improvements
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+I´ve added a few improvements and modifications my self and I will keep the project available as my personal digital portfolio. Instead of mapping all objects and indexes in PostDetail.jxs, I´ve added ReactMarkdown to PostDetail.jxs and changed the content type in getPostDetails funcition to markdown. Fits my needs perfectly
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+### Where can I find it?
 
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+It is available at:
+Open [https://blog.atavares.com](https://blogatavares.com) to view it in your browser.
+[Deployed with Vercel](https://vercel.com/)](https://vercel.com/)
